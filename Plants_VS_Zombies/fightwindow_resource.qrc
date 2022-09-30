@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/fightwindow_background.png</file>
+        <file>resource/ChooserBackground.png</file>
+        <file>resource/土豆卡片.png</file>
+        <file>resource/豌豆卡片.png</file>
+        <file>resource/向日葵卡片.png</file>
+        <file>resource/nut.gif</file>
+        <file>resource/pea.gif</file>
+        <file>resource/sunflower.gif</file>
+        <file>resource/zombieattack.gif</file>
+        <file>resource/zombiedeath.gif</file>
+        <file>resource/zombiemove.gif</file>
+        <file>resource/PeaNormal.png</file>
+        <file>resource/PeaNormalExplode.png</file>
+        <file>resource/sun.gif</file>
+        <file>resource/cry.gif</file>
+        <file>resource/plate.png</file>
+        <file>resource/black nut card.png</file>
+        <file>resource/black pea card.png</file>
+        <file>resource/black sun flower card.png</file>
+    </qresource>
+</RCC>

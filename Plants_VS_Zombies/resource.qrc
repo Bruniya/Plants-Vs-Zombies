@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/openbackground.png</file>
+        <file>resource/click to start0.png</file>
+        <file>resource/click to start1.png</file>
+        <file>resource/windowicon.png</file>
+        <file>resource/newwindowicon.png</file>
+        <file>resource/start_video.mp4</file>
+        <file>resource/menu_page_background.jpg</file>
+        <file>resource/click to start2.png</file>
+        <file>resource/achievements1.png</file>
+        <file>resource/help0.png</file>
+        <file>resource/help1.png</file>
+        <file>resource/quit0.png</file>
+        <file>resource/quit1.png</file>
+        <file>resource/options0.png</file>
+        <file>resource/options1.png</file>
+        <file>resource/options5.png</file>
+        <file>resource/options4.png</file>
+        <file>resource/achievements0.png</file>
+        <file>resource/options8.png</file>
+        <file>resource/options9.png</file>
+        <file>resource/achievement_page_background.png</file>
+        <file>resource/back0.png</file>
+        <file>resource/back1.png</file>
+        <file>resource/quik_page.png</file>
+        <file>resource/cancel0.png</file>
+        <file>resource/cancel1.png</file>
+        <file>resource/quik0.png</file>
+        <file>resource/quik1.png</file>
+        <file>resource/new_menue_page_background.png</file>
+        <file>resource/newnew_menue_page_background.png</file>
+        <file>resource/adventure0.png</file>
+        <file>resource/adventure1.png</file>
+        <file>resource/adventure2.png</file>
+        <file>resource/help_page_background.png</file>
+        <file>resource/newhelp_page_background.png</file>
+        <file>resource/mainmenu0.png</file>
+        <file>resource/mainmenu1.png</file>
+        <file>resource/fight_page_background.png</file>
+        <file>resource/newfight_page.jpg</file>
+    </qresource>
+</RCC>
